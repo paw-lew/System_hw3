@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 client
 server
 compile.txt
 tasks3.odt
+=======
+*
+!client.c
+!server.c
+>>>>>>> e0080bcaa4b0d67ead507e47c1f1da4f219134ae
