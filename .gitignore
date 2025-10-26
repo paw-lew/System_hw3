@@ -1,5 +1,3 @@
-client
-server
-
-compile.txt
-tasks3.odt
+*
+!client.c
+!server.c
